@@ -1,2 +1,2 @@
 # CurrencyConverter
-Currency Converter using HTML CSS and JavaScript
+Currency Converter using API HTML CSS and JavaScript
